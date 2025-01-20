@@ -1,0 +1,1 @@
+# This repository contains Database Management Systems notes and sql practice problems, concepts and solution
